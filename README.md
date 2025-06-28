@@ -22,7 +22,7 @@ Weather App using HTML,  CSS, and JavaScript with Fetch API to display real-time
 
 ## 📥 How to run locally
 1. Clone the repository:
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Sneha51107/weather-app.git
 
 yaml
 Copy
@@ -32,6 +32,6 @@ Edit
 ---
 
 ## 📬 Contact
-For any questions or feedback, connect with me on [LinkedIn](https://www.linkedin.com) or mail me at `yourmail@example.com`.
+For any questions or feedback, connect with me on [LinkedIn](https://www.linkedin.com) or mail me at `snehaar004@gmail.com`.
 
 ⭐ **If you find this project useful, consider starring this repository!**
