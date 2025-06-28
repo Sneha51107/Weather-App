@@ -18,15 +18,12 @@ Weather App using HTML,  CSS, and JavaScript with Fetch API to display real-time
 
 
 ## 🌐 Live Preview
-*(Add your GitHub Pages live link here after deployment)*
+ https://sneha51107.github.io/Weather-App/
 
 ## 📥 How to run locally
 1. Clone the repository:
 git clone https://github.com/Sneha51107/weather-app.git
 
-yaml
-Copy
-Edit
 2. Open `index.html` in your browser.
 
 ---
