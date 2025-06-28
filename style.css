@@ -1,0 +1,96 @@
+body{
+    background-color: aliceblue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
+h2{
+    color: rgb(4, 4, 102);
+}
+.main{
+    background-color: white;
+    height: auto;
+    width: 250px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    padding: 20px;
+   
+}
+.box1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    height: 100px;
+    margin-bottom: 10px;
+    
+}
+.box{
+    margin-bottom: 7px;
+}
+.input-box,
+.button-box {
+  margin: 8px 0;
+  display: flex;
+  justify-content: center;
+}
+
+input{
+    width: 200px;
+    font-size: large;
+    padding: 7px;
+}
+
+button{
+width: 200px;
+font-size: large;
+color: white;
+background-color: blue;
+border-radius: 4px;
+border-color: transparent;
+}
+button:hover {
+    background-color: darkblue;
+    cursor: pointer;
+  }
+.img{
+    width: 30px;
+}
+.weather img{
+    width: 20px;
+    height: 20px;
+}
+.data{
+    display: flex;
+    align-items: center;
+    
+}
+.class1{
+    display: flex;
+    align-items: center;
+
+}
+.class2{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.weather-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+  }
+  .weather-row {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+
+      
